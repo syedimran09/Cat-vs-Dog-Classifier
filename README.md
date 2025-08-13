@@ -19,3 +19,6 @@ Built with **TensorFlow** + **Gradio** for an interactive UI.
     - cat_dog_classifier.ipynb
     - app.py
     - images
+## Output's
+
+<img width="1918" height="666" alt="image" src="https://github.com/user-attachments/assets/07ab441d-3797-431d-93d0-809d35aaf7e9" />

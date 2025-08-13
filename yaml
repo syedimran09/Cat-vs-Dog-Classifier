@@ -1,0 +1,8 @@
+
+---
+
+## 📦 Installation (Local)
+```bash
+git clone https://github.com/your-username/cat-vs-dog-classifier.git
+cd cat-vs-dog-classifier
+pip install -r requirements.txt
